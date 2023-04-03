@@ -2,3 +2,5 @@ fastapi
 uvicorn
 redis
 debugpy
+django
+djangorestframework
